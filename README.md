@@ -3,7 +3,7 @@ Super Good Delete Wiggle
 
 Wiggle animation as good as the Springboard delete wiggle animation.
 
-Call consequetively on all the views you want to wiggle.
+Call consecutively on all the views you want to wiggle.
 
 License
 =======
